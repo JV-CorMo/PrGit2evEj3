@@ -10,5 +10,7 @@ public class Empresa {
         d1.setNumEmpleados(d1.getNumEmpleados()+1);
         d1.anadir(e1);
         System.out.println(d1);
+
+        System.out.println(d1); // Para realizar algún cambio, este main no muestra errores.
     }
 }
